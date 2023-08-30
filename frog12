@@ -1,0 +1,8 @@
+static void Main(string[] args)
+{
+int x = 5; // ilk değeri tanımlanırken atadık.
+int y;
+y = 3; // ilk derğeri tanımlandıktan sonra atadık.
+Console.WriteLine(x);
+Console.WriteLine(y);
+Console.ReadKey();
